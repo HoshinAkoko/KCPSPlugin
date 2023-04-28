@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KCPS", "KCPS\KCPS.csproj", "{F5D85A90-73D6-4A77-A41A-70209FB5BDC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5D85A90-73D6-4A77-A41A-70209FB5BDC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5D85A90-73D6-4A77-A41A-70209FB5BDC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5D85A90-73D6-4A77-A41A-70209FB5BDC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5D85A90-73D6-4A77-A41A-70209FB5BDC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
