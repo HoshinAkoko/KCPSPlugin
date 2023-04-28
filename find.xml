@@ -1,0 +1,11 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="目录 'Github Actions'" />
+    <option name="defaultScopeName" value="目录 'Github Actions'" />
+    <option name="SEARCH_SCOPE" value="目录 'Github Actions'" />
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.cs</mask>
+  </component>
+</application>
